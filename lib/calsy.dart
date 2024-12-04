@@ -93,6 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 borderRadius: BorderRadius.circular(12.0), // Rounded corners if desired
               ),
             ),
+
             child: Text(
               buttonText,
               style: TextStyle(fontSize: 35.0, fontWeight: FontWeight.bold),
